@@ -1,0 +1,13 @@
+C:\projects\Course 1.2\OOP LAB 4\OOP LAB 4\bin\Debug\netcoreapp3.1\OOP LAB 4.exe
+C:\projects\Course 1.2\OOP LAB 4\OOP LAB 4\bin\Debug\netcoreapp3.1\OOP LAB 4.deps.json
+C:\projects\Course 1.2\OOP LAB 4\OOP LAB 4\bin\Debug\netcoreapp3.1\OOP LAB 4.runtimeconfig.json
+C:\projects\Course 1.2\OOP LAB 4\OOP LAB 4\bin\Debug\netcoreapp3.1\OOP LAB 4.runtimeconfig.dev.json
+C:\projects\Course 1.2\OOP LAB 4\OOP LAB 4\bin\Debug\netcoreapp3.1\OOP LAB 4.dll
+C:\projects\Course 1.2\OOP LAB 4\OOP LAB 4\bin\Debug\netcoreapp3.1\OOP LAB 4.pdb
+C:\projects\Course 1.2\OOP LAB 4\OOP LAB 4\obj\Debug\netcoreapp3.1\OOP LAB 4.csprojAssemblyReference.cache
+C:\projects\Course 1.2\OOP LAB 4\OOP LAB 4\obj\Debug\netcoreapp3.1\OOP LAB 4.AssemblyInfoInputs.cache
+C:\projects\Course 1.2\OOP LAB 4\OOP LAB 4\obj\Debug\netcoreapp3.1\OOP LAB 4.AssemblyInfo.cs
+C:\projects\Course 1.2\OOP LAB 4\OOP LAB 4\obj\Debug\netcoreapp3.1\OOP LAB 4.csproj.CoreCompileInputs.cache
+C:\projects\Course 1.2\OOP LAB 4\OOP LAB 4\obj\Debug\netcoreapp3.1\OOP LAB 4.dll
+C:\projects\Course 1.2\OOP LAB 4\OOP LAB 4\obj\Debug\netcoreapp3.1\OOP LAB 4.pdb
+C:\projects\Course 1.2\OOP LAB 4\OOP LAB 4\obj\Debug\netcoreapp3.1\OOP LAB 4.genruntimeconfig.cache
